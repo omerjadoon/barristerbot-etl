@@ -1,0 +1,575 @@
+{"id": "section_1", "text": "This Act may be called the Code of Criminal Procedure, 1898, and it extends to the whole of Pakistan."}
+{"id": "section_2", "text": "Definitions include terms like bailable offence, cognizable offence, inquiry, investigation, etc., as used throughout the Code."}
+{"id": "section_3", "text": "The provisions of this Code apply to all criminal proceedings unless otherwise stated by a special or local law."}
+{"id": "section_4", "text": "All offences under the Pakistan Penal Code shall be investigated, inquired into, tried, and otherwise dealt with according to this Code."}
+{"id": "section_5", "text": "This Code regulates proceedings in respect of offences under any law other than the PPC, unless otherwise provided."}
+{"id": "section_6", "text": "Classes of Criminal Courts: Sessions Courts, Judicial Magistrates of first, second, and third class."}
+{"id": "section_7", "text": "Territorial divisions: Province is divided into sessions divisions, each comprising districts or sub-divisions with assigned courts."}
+{"id": "section_8", "text": "Metropolitan areas may be declared for cities with over one million population and have Metropolitan Magistrates and Sessions Judges."}
+{"id": "section_9", "text": "Court of Session: Established by Provincial Government for every sessions division, with Sessions Judge and Additional/Assistant Judges."}
+{"id": "section_10", "text": "Subordination of Assistant Sessions Judges to Sessions Judges; they exercise powers subject to Judge’s direction."}
+{"id": "section_11", "text": "Judicial Magistrates: Provincial Government appoints Judicial Magistrates in each district."}
+{"id": "section_12", "text": "Chief Judicial Magistrate: One Judicial Magistrate is appointed Chief Judicial Magistrate in each district."}
+{"id": "section_13", "text": "Special Judicial Magistrates: Appointed by Provincial Government to try specified offences."}
+{"id": "section_14", "text": "Local jurisdiction of Judicial Magistrates: They exercise jurisdiction within their districts or specified areas."}
+{"id": "section_15", "text": "Subordination of Magistrates: Magistrates are subordinate to Sessions Judges and, within districts, to District Magistrates."}
+{"id": "section_16", "text": "Metropolitan Magistrates are appointed similarly in metropolitan areas and are subordinate to Chief Metropolitan Magistrate."}
+{"id": "section_17", "text": "Executive Magistrates: District Magistrates and others appointed by the Provincial Government for specific areas."}
+{"id": "section_18", "text": "Subordination of Executive Magistrates to District Magistrate."}
+{"id": "section_19", "text": "Bench of Magistrates: Two or more Magistrates may form a bench for particular cases."}
+{"id": "section_20", "text": "Justices of the Peace: Appointed to perform duties like receiving complaints, aiding police, etc."}
+{"id": "section_21", "text": "Powers of officers appointed: Officers act within the powers of the class they are appointed to."}
+{"id": "section_22", "text": "Powers of Justices of the Peace: Include issuing directions for police assistance and recording complaints."}
+{"id": "section_23", "text": "Executive Magistrates may be appointed as Sub-Divisional Magistrates."}
+{"id": "section_24", "text": "Public Prosecutors: Appointed for conducting prosecution in Sessions Courts."}
+{"id": "section_25", "text": "Assistant Public Prosecutors may be appointed for conducting prosecution in Magistrates' Courts."}
+{"id": "section_26", "text": "Offences may be tried by High Courts, Sessions Courts, or Magistrates according to jurisdiction."}
+{"id": "section_27", "text": "Youth under 16 may be tried by specially empowered Magistrates."}
+{"id": "section_28", "text": "High Courts may try any offence and pass any sentence."}
+{"id": "section_29", "text": "Sessions Judges and Magistrates are restricted to passing only the sentences authorized by law for their classes."}
+{"id": "section_30", "text": "Magistrates may try jointly multiple persons accused of offences arising from the same transaction."}
+{"id": "section_31", "text": "Sentences may be combined by Magistrates within limits of their jurisdiction."}
+{"id": "section_32", "text": "Mode of conferring powers: Done by notification in Official Gazette."}
+{"id": "section_33", "text": "Withdrawal of powers: Appointing authority may withdraw powers conferred on any officer."}
+{"id": "section_34", "text": "Powers of superior officers: Sessions Judges may revise decisions of Magistrates subordinate to them."}
+{"id": "section_35", "text": "Cognizance of offences by Magistrates and Sessions Judges according to procedures in the Code."}
+{"id": "section_36", "text": "Power of police officers to investigate cognizable cases without Magistrate’s order."}
+{"id": "section_37", "text": "Public is bound to assist Magistrates and police in preventing breaches of peace."}
+{"id": "section_38", "text": "Public is bound to assist in apprehending offenders when required by police or Magistrate."}
+{"id": "section_39", "text": "Certain classes of persons must give information of specified offences to the nearest Magistrate or police officer."}
+{"id": "section_40", "text": "Village officials are bound to communicate intelligence of certain offences to Magistrate or police."}
+{"id": "section_41", "text": "Police may arrest without warrant in certain cases, including cognizable offences."}
+{"id": "section_42", "text": "Arrest on refusal to give name and residence to police in non-cognizable cases."}
+{"id": "section_43", "text": "Arrest by private persons is permitted for non-bailable and cognizable offences."}
+{"id": "section_44", "text": "Magistrate may arrest or order arrest in their presence for offences committed."}
+{"id": "section_45", "text": "Protection of Armed Forces members from arrest without Central Government sanction."}
+{"id": "section_46", "text": "Arrest is made by actual touching or confinement unless submission to custody occurs."}
+{"id": "section_47", "text": "Search of place where offender is believed to be hiding if access is denied."}
+{"id": "section_48", "text": "Police are authorized to pursue and arrest a person anywhere in Pakistan."}
+{"id": "section_49", "text": "Person arrested shall not be subjected to more restraint than necessary."}
+{"id": "section_50", "text": "Person arrested must be informed of the grounds and right to bail if the offence is bailable."}
+{"id": "section_51", "text": "When a person is arrested, the officer may search him and seize any offensive weapons."}
+{"id": "section_52", "text": "If the person arrested has any property, it must be forwarded to the Magistrate or officer in charge."}
+{"id": "section_53", "text": "Search of a place entered by person sought to be arrested must be conducted lawfully and reported."}
+{"id": "section_54", "text": "Police can arrest without a warrant any person reasonably suspected of being involved in a cognizable offence."}
+{"id": "section_55", "text": "If police deputes someone for arrest, written authority must be given stating name and offence."}
+{"id": "section_56", "text": "Person arrested without warrant must be presented before a Magistrate within 24 hours, excluding travel time."}
+{"id": "section_57", "text": "A police officer may not detain an arrested person longer than 24 hours without Magistrate's permission."}
+{"id": "section_58", "text": "Police must report to Magistrate all arrests without warrant within their jurisdiction."}
+{"id": "section_59", "text": "Person arrested without warrant must be either bailed or sent to a Magistrate."}
+{"id": "section_60", "text": "Officers in charge of police stations must comply with lawful requisitions for arrests and produce persons arrested."}
+{"id": "section_61", "text": "Police officers are bound to obey lawful directions of Magistrates in matters of arrest and detention."}
+{"id": "section_62", "text": "No unnecessary restraint: Only necessary measures for preventing escape are allowed during arrest."}
+{"id": "section_63", "text": "Arrested person must not be subjected to unnecessary restraint or humiliation."}
+{"id": "section_64", "text": "Warrants issued by Magistrates must be in writing, signed, and bear the seal of the Court."}
+{"id": "section_65", "text": "Warrants must specify the offence charged and name or description of the person to be arrested."}
+{"id": "section_66", "text": "Any police officer or person authorized may execute a warrant."}
+{"id": "section_67", "text": "A warrant may be executed anywhere in Pakistan."}
+{"id": "section_68", "text": "Endorsement may be required for execution of a warrant outside the issuing Magistrate’s jurisdiction."}
+{"id": "section_69", "text": "The person executing a warrant must notify the substance of the warrant to the arrestee."}
+{"id": "section_70", "text": "Person arrested must be brought before the Court issuing the warrant without delay."}
+{"id": "section_71", "text": "If the Court is not sitting, the arrestee may be temporarily confined in custody until produced before Court."}
+{"id": "section_72", "text": "Summons must be served personally or by leaving it with an adult member of the household."}
+{"id": "section_73", "text": "A copy of the summons must be served when the original cannot be handed over."}
+{"id": "section_74", "text": "Service on corporations may be done by registered post or delivering to a principal officer."}
+{"id": "section_75", "text": "Summons served outside local limits require the endorsement of the Magistrate within whose jurisdiction it is served."}
+{"id": "section_76", "text": "Warrants should be directed to police officers or persons specifically authorized."}
+{"id": "section_77", "text": "Multiple warrants for the same person may be issued and executed concurrently."}
+{"id": "section_78", "text": "Bailable offences require notice to be given if the accused is already under bond for appearance."}
+{"id": "section_79", "text": "Where bond is not taken, the person must be produced before the Magistrate without delay."}
+{"id": "section_80", "text": "Where bond is taken, police must forward a copy of the bond and other particulars to the Court."}
+{"id": "section_81", "text": "The accused may be released on bail if the offence is bailable and sureties are available."}
+{"id": "section_82", "text": "If the person against whom a warrant is issued does not appear, the Court may publish a proclamation."}
+{"id": "section_83", "text": "Attachment of property may follow proclamation if the person fails to appear within the specified time."}
+{"id": "section_84", "text": "Restoration of attached property may be claimed if the person appears and proves innocence."}
+{"id": "section_85", "text": "If the proclaimed person does not appear, the attached property may be sold and proceeds kept."}
+{"id": "section_86", "text": "Bond for appearance may be forfeited if the person fails to appear without lawful excuse."}
+{"id": "section_87", "text": "Search-warrants may be issued if documents or things necessary for investigation are believed to be concealed."}
+{"id": "section_88", "text": "A search-warrant may authorize search of specific places only."}
+{"id": "section_89", "text": "Search for persons wrongfully confined may be authorized if reasonable belief exists."}
+{"id": "section_90", "text": "The person in charge of a searched place must allow entry and assistance to the officer executing warrant."}
+{"id": "section_91", "text": "The officer conducting a search must carry out the search in the presence of two independent witnesses."}
+{"id": "section_92", "text": "Search-warrants should specify the thing to be searched for and the place to be searched."}
+{"id": "section_93", "text": "The officer must deliver the articles seized during the search to the Magistrate."}
+{"id": "section_94", "text": "In case of post or telegrams suspected to contain evidence, Magistrate may order their delivery."}
+{"id": "section_95", "text": "Forfeiture of certain publications may be ordered if they contain matter punishable under certain sections."}
+{"id": "section_96", "text": "Search-warrants for documents in the possession of editors or publishers may be issued."}
+{"id": "section_97", "text": "Search for persons wrongfully confined may be conducted by order of Magistrate."}
+{"id": "section_98", "text": "Power to compel restoration of abducted females or children."}
+{"id": "section_99", "text": "Magistrate may issue warrant to search for documents, arms, or explosives unlawfully kept."}
+{"id": "section_100", "text": "When search of closed place is required, notice must be given and presence of witnesses ensured during search."}
+{"id": "section_101", "text": "Disposal of things found in a search: Items seized must be produced before the Court competent to take cognizance of the offence."}
+{"id": "section_102", "text": "Power of police officer to seize certain property suspected of being stolen or involved in an offence."}
+{"id": "section_103", "text": "Searches must be conducted in the presence of two respectable witnesses of the locality."}
+{"id": "section_104", "text": "Court may impound documents or things produced before it under certain circumstances."}
+{"id": "section_105", "text": "Reciprocal arrangements may be made by the Federal Government for attachment or forfeiture of property abroad."}
+{"id": "section_106", "text": "Court may direct a convicted person to execute a bond for keeping the peace for a specified time."}
+{"id": "section_107", "text": "Magistrate may require a person likely to commit breach of peace to show cause why he should not be bound over."}
+{"id": "section_108", "text": "Security for good behaviour from persons disseminating seditious matters or similar offences."}
+{"id": "section_109", "text": "Security for good behaviour from suspected persons who cannot give a satisfactory account of themselves."}
+{"id": "section_110", "text": "Security for good behaviour from habitual offenders such as thieves, housebreakers, or those convicted multiple times."}
+{"id": "section_111", "text": "Order to be made when a person is required to show cause under Sections 107 to 110."}
+{"id": "section_112", "text": "Contents of the order must specify the substance of the information and the nature of the security demanded."}
+{"id": "section_113", "text": "Copy of the order must be served on the person in the manner of a summons or warrant."}
+{"id": "section_114", "text": "Summons or warrant to be issued for appearance of the person concerned."}
+{"id": "section_115", "text": "Magistrate may detain the person in custody pending inquiry if immediate measures are needed."}
+{"id": "section_116", "text": "Inquiry into the truth of the information must be completed within six months."}
+{"id": "section_117", "text": "Order to give security: If proved necessary, the person shall execute a bond and find sureties."}
+{"id": "section_118", "text": "Discharge of person informed against if no proof is found to require security."}
+{"id": "section_119", "text": "Commencement of period for which security is required: Starts from the date of order unless the person is already in custody."}
+{"id": "section_120", "text": "Contents of bond: Must specify the conditions under which the person binds himself."}
+{"id": "section_121", "text": "Power to reject sureties found to be unfit or insufficient."}
+{"id": "section_122", "text": "Imprisonment in default of security: If the bond is not executed, the person shall be imprisoned for the prescribed period."}
+{"id": "section_123", "text": "Power to release persons imprisoned for failing to give security if the necessity for keeping the peace ceases."}
+{"id": "section_124", "text": "Security from minor: Court may order guardian to execute bond on behalf of a minor."}
+{"id": "section_125", "text": "Magistrate may order monthly allowance for maintenance of wife, children, or parents unable to maintain themselves."}
+{"id": "section_126", "text": "Proceedings under Section 125 shall be initiated before a Magistrate of the first class."}
+{"id": "section_127", "text": "Alteration in allowance: Magistrate may alter allowance upon proof of change in circumstances."}
+{"id": "section_128", "text": "Enforcement of order for maintenance through issuance of warrant for recovery of amount due."}
+{"id": "section_129", "text": "Unlawful assemblies may be dispersed by Executive Magistrates or police officers."}
+{"id": "section_130", "text": "Armed forces may be used to disperse assembly if it cannot be dispersed otherwise."}
+{"id": "section_131", "text": "Armed forces officer may act independently to disperse unlawful assembly in urgent situations."}
+{"id": "section_132", "text": "Protection against prosecution for acts done under Sections 129 to 131 unless with prior sanction."}
+{"id": "section_133", "text": "Conditional order for removal of public nuisance may be made by a District Magistrate."}
+{"id": "section_134", "text": "Service or notification of order issued under Section 133 must be properly documented."}
+{"id": "section_135", "text": "Person against whom the order is made must comply or appear to show cause."}
+{"id": "section_136", "text": "Procedure when individual appears to show cause includes hearing evidence."}
+{"id": "section_137", "text": "Magistrate to decide whether the order should be made absolute or modified."}
+{"id": "section_138", "text": "If the order is made absolute, non-compliance may result in removal of nuisance and recovery of costs."}
+{"id": "section_139", "text": "Power of Magistrate to prohibit repetition of public nuisance by injunction."}
+{"id": "section_140", "text": "Procedure for disputes concerning public nuisances when right or title is denied."}
+{"id": "section_141", "text": "Inquiry into claim of right when a legal claim is made during proceedings for public nuisance."}
+{"id": "section_142", "text": "Injunctive relief to prevent imminent danger during pendency of inquiry into nuisance."}
+{"id": "section_143", "text": "Temporary order in urgent cases of nuisance or apprehended danger may be passed by the Magistrate."}
+{"id": "section_144", "text": "Power to issue order in urgent cases of nuisance or apprehended danger, including prohibiting assemblies and processions."}
+{"id": "section_145", "text": "Magistrate may intervene in disputes over possession of land or water to prevent breach of peace."}
+{"id": "section_146", "text": "If emergency exists, Magistrate may attach subject of dispute and appoint a receiver."}
+{"id": "section_147", "text": "Dispute concerning right of user of land or water may be decided by Magistrate to prevent breach of peace."}
+{"id": "section_148", "text": "Power to appoint assessors to assist Magistrate in such inquiries."}
+{"id": "section_149", "text": "Police to prevent cognizable offences proactively."}
+{"id": "section_150", "text": "Information of design to commit cognizable offences must be communicated to police or Magistrate."}
+{"id": "section_151", "text": "Police may arrest to prevent the commission of a cognizable offence without a warrant if there is reasonable cause."}
+{"id": "section_152", "text": "Prevention of injury to public property: Police are required to take steps to prevent such injury."}
+{"id": "section_153", "text": "Inspection of weights and measures may be done by a police officer or authorized magistrate to ensure accuracy."}
+{"id": "section_154", "text": "Information in cognizable cases must be recorded in writing by police and read over to the informant."}
+{"id": "section_155", "text": "Information in non-cognizable cases must be entered in a book and referred to the Magistrate."}
+{"id": "section_156", "text": "Police officer may investigate cognizable case without Magistrate’s order."}
+{"id": "section_157", "text": "If a cognizable offence is reported, the police must investigate and send a report to the Magistrate."}
+{"id": "section_158", "text": "Report must be sent to Magistrate empowered to take cognizance of the case."}
+{"id": "section_159", "text": "Magistrate may direct investigation or hold a preliminary inquiry."}
+{"id": "section_160", "text": "Police may require attendance of witnesses residing within jurisdiction for interrogation."}
+{"id": "section_161", "text": "Police may examine orally any person supposed to be acquainted with the case facts."}
+{"id": "section_162", "text": "Statements to police not to be signed and may only be used in certain circumstances during trial."}
+{"id": "section_163", "text": "No inducement or threat must be used to obtain a statement during police examination."}
+{"id": "section_164", "text": "Magistrate may record confession or statement during investigation following specific safeguards."}
+{"id": "section_165", "text": "Police officer may search premises if he believes evidence of offence is present."}
+{"id": "section_166", "text": "When search is to be made outside jurisdiction, request may be made to local police."}
+{"id": "section_167", "text": "Procedure when investigation cannot be completed within 24 hours—Magistrate may authorize detention up to 15 or 30 days."}
+{"id": "section_168", "text": "Subordinate police officer must report progress of investigation to officer in charge."}
+{"id": "section_169", "text": "If no sufficient evidence is found, the accused must be released with or without bond."}
+{"id": "section_170", "text": "When evidence is sufficient, accused must be forwarded to a Magistrate along with the case file."}
+{"id": "section_171", "text": "Statements and confessions to be recorded during investigation and forwarded with the case diary."}
+{"id": "section_172", "text": "Police must maintain a case diary recording the investigation details, time, and location."}
+{"id": "section_173", "text": "Police must complete investigation without unnecessary delay and submit final report to the Magistrate."}
+{"id": "section_174", "text": "Police to inquire and report on suicide or unnatural death, especially if suspicious or violent."}
+{"id": "section_175", "text": "Police officer may summon persons for inquiry and production of documents during investigation."}
+{"id": "section_176", "text": "Magistrate must hold inquiry into cause of death in cases involving suspicious deaths or police custody."}
+{"id": "section_177", "text": "Every offence shall ordinarily be inquired into and tried by a court within whose local jurisdiction it was committed."}
+{"id": "section_178", "text": "Where it is uncertain in which local area the offence occurred, it may be tried in any jurisdiction where it might have happened."}
+{"id": "section_179", "text": "Offence may be tried in the jurisdiction where the act was done or consequence ensued."}
+{"id": "section_180", "text": "When an act is an offence by reason of relation to another act, it may be tried in either jurisdiction."}
+{"id": "section_181", "text": "Certain crimes like theft, kidnapping, or criminal misappropriation may be tried in multiple jurisdictions related to offence."}
+{"id": "section_182", "text": "Offences involving deceit or property obtained by fraud may be tried where deception took place or property was received."}
+{"id": "section_183", "text": "Offences committed during journey or voyage may be tried at the place of departure or arrival."}
+{"id": "section_184", "text": "Place of trial where scene of offence is uncertain, e.g., offences committed on high seas."}
+{"id": "section_185", "text": "High Court may order any case to be transferred from one Court to another within its jurisdiction."}
+{"id": "section_186", "text": "Sessions Judge may also transfer a case from one Magistrate to another within the same jurisdiction."}
+{"id": "section_187", "text": "Magistrate may issue warrant for apprehension of person within their jurisdiction for trial."}
+{"id": "section_188", "text": "Extradition and trial of persons accused of offences committed outside Pakistan, with Federal Government’s sanction."}
+{"id": "section_189", "text": "Crimes on journey or voyage involving multiple acts in different jurisdictions may be tried in any one."}
+{"id": "section_190", "text": "Cognizance of offence by Magistrates either upon complaint, police report, or own knowledge."}
+{"id": "section_191", "text": "Magistrate must inform accused of right to have case transferred when taking cognizance of complaint."}
+{"id": "section_192", "text": "Magistrate may transfer the case to another Magistrate competent to try it."}
+{"id": "section_193", "text": "Sessions Court cannot take cognizance of an offence unless committed to it by a Magistrate."}
+{"id": "section_194", "text": "Additional Sessions Judges and Assistant Sessions Judges may try cases as directed by Sessions Judge."}
+{"id": "section_195", "text": "Certain offences against public justice or documents may not be tried except on complaint by Court or officer."}
+{"id": "section_196", "text": "Prosecution for offences against the State must be sanctioned by the Federal or Provincial Government."}
+{"id": "section_197", "text": "Prosecution of judges and public servants requires prior sanction from appropriate Government."}
+{"id": "section_198", "text": "Certain offences affecting marriage or defamation can only be tried on complaint by the aggrieved person."}
+{"id": "section_199", "text": "Prosecution for offences against public servants in respect of acts done in official capacity requires Government’s sanction."}
+{"id": "section_200", "text": "Examination of complainant: Magistrate must examine the complainant and witnesses before proceeding with the case."}
+{"id": "section_201", "text": "When a Magistrate is not competent to take cognizance of a case, he must return the complaint or refer it to proper Court."}
+{"id": "section_202", "text": "Magistrate may postpone issue of process and direct investigation or inquiry for deciding whether to proceed."}
+{"id": "section_203", "text": "If after considering statements and inquiry the Magistrate finds no sufficient grounds, he shall dismiss the complaint."}
+{"id": "section_204", "text": "If Magistrate finds sufficient grounds, he shall issue summons or warrant to the accused."}
+{"id": "section_205", "text": "Magistrate may dispense with personal attendance of accused and allow appearance by pleader."}
+{"id": "section_206", "text": "In petty cases, Magistrate may allow accused to plead guilty by post or authorized agent."}
+{"id": "section_207", "text": "In warrant cases instituted on police report, Magistrate shall furnish accused with copies of police report and other documents."}
+{"id": "section_208", "text": "In warrant cases not based on police report, Magistrate shall provide copies of relevant statements and documents."}
+{"id": "section_209", "text": "When offence is exclusively triable by Court of Session, Magistrate shall commit the case after furnishing copies and hearing."}
+{"id": "section_210", "text": "When a complaint and police investigation relate to the same offence, both proceedings must be consolidated."}
+{"id": "section_211", "text": "Every charge must state the offence with which the accused is charged clearly and concisely."}
+{"id": "section_212", "text": "Charge must specify time, place, and person against whom offence was committed."}
+{"id": "section_213", "text": "When precise manner of offence is necessary to be stated, details must be included in the charge."}
+{"id": "section_214", "text": "Words describing the offence in the law are sufficient to constitute a valid charge."}
+{"id": "section_215", "text": "Errors in charge are not material unless they mislead the accused in their defence."}
+{"id": "section_216", "text": "Court may alter or add charge at any time before judgment is pronounced."}
+{"id": "section_217", "text": "Whenever charge is altered, accused must be given opportunity to recall or re-examine witnesses."}
+{"id": "section_218", "text": "For every distinct offence, there shall be a separate charge and trial, unless exceptions apply."}
+{"id": "section_219", "text": "Three offences of same kind within a year may be charged and tried together."}
+{"id": "section_220", "text": "Multiple offences committed in one series of acts forming the same transaction may be tried together."}
+{"id": "section_221", "text": "Where it is doubtful what offence has been committed, the accused may be charged with all or any of them."}
+{"id": "section_222", "text": "Accused may be convicted of a lesser offence if proven, even if charged with a greater one."}
+{"id": "section_223", "text": "Certain persons may be charged and tried together if involved in the same offence or series of offences."}
+{"id": "section_224", "text": "If a charge has been withdrawn before judgment, fresh prosecution may be instituted with Court’s permission."}
+{"id": "section_225", "text": "In Sessions Court, Public Prosecutor shall conduct the prosecution."}
+{"id": "section_226", "text": "Opening case for prosecution: Public Prosecutor states facts and evidence he proposes to rely on."}
+{"id": "section_227", "text": "If no sufficient ground for proceeding is found, the accused shall be discharged."}
+{"id": "section_228", "text": "If case is triable by the Court, charge shall be framed and explained to the accused."}
+{"id": "section_229", "text": "If accused pleads guilty, the Court shall record the plea and may convict."}
+{"id": "section_230", "text": "If accused refuses to plead or does not plead, trial shall proceed with evidence for prosecution."}
+{"id": "section_231", "text": "Witnesses for prosecution shall be examined and accused has right to cross-examine."}
+{"id": "section_232", "text": "If after evidence for prosecution the Judge considers no case, he shall acquit the accused."}
+{"id": "section_233", "text": "If accused is not acquitted, he is called to enter defence and produce evidence if any."}
+{"id": "section_234", "text": "Accused may give evidence on oath and be cross-examined."}
+{"id": "section_235", "text": "After hearing both sides, the Court shall pronounce judgment."}
+{"id": "section_236", "text": "If accused is convicted, Court shall hear him on the question of sentence before passing it."}
+{"id": "section_237", "text": "If accused is charged with one offence but evidence shows another, Court may convict of the proved offence."}
+{"id": "section_238", "text": "In warrant cases tried by Magistrates, similar procedures apply regarding framing charge and evidence."}
+{"id": "section_239", "text": "Trial of warrant cases must be continued from day to day unless adjournment is necessary."}
+{"id": "section_240", "text": "Charge to be framed and read out when accused is brought before the Court."}
+{"id": "section_241", "text": "If accused pleads guilty, Magistrate may record plea and convict."}
+{"id": "section_242", "text": "If plea is not guilty, Court shall take evidence for prosecution and allow cross-examination."}
+{"id": "section_243", "text": "Evidence for defence may be adduced and accused may testify on his own behalf."}
+{"id": "section_244", "text": "Court shall decide the case after hearing prosecution and defence and may convict or acquit."}
+{"id": "section_245", "text": "When Magistrate finds no case against accused, he shall discharge him."}
+{"id": "section_246", "text": "If evidence shows offence has been committed, Magistrate shall proceed to frame charge."}
+{"id": "section_247", "text": "If complainant does not appear, Magistrate may acquit the accused unless there is good reason to adjourn."}
+{"id": "section_248", "text": "Accused shall not be discharged unless prosecution has had opportunity to present evidence."}
+{"id": "section_249", "text": "Magistrate may stop proceedings at any stage without pronouncing judgment."}
+{"id": "section_250", "text": "If complaint is found to be false or frivolous, Court may order compensation to be paid to the accused by the complainant."}
+{"id": "section_251", "text": "When accused appears or is brought before Magistrate in summons case, particulars of offence shall be stated to him and he shall be asked to plead."}
+{"id": "section_252", "text": "If accused pleads guilty, Magistrate shall record the plea and may convict him."}
+{"id": "section_253", "text": "If accused does not plead guilty, Magistrate shall proceed to hear the complainant and witnesses."}
+{"id": "section_254", "text": "After hearing both sides, Magistrate shall either convict the accused or record an order of acquittal."}
+{"id": "section_255", "text": "If accused is convicted, Magistrate shall hear him on the question of sentence and then pass sentence."}
+{"id": "section_256", "text": "If complainant does not appear on the hearing date, Magistrate may acquit the accused unless good reason for adjournment is shown."}
+{"id": "section_257", "text": "Complainant may withdraw complaint with Magistrate’s permission, and the accused shall be acquitted."}
+{"id": "section_258", "text": "In summons cases, Magistrate may stop proceedings at any stage and release accused."}
+{"id": "section_259", "text": "Provisions of warrant cases apply to summons cases where offence is punishable with more than six months imprisonment."}
+{"id": "section_260", "text": "High Court may empower Magistrate of first class to try certain offences summarily."}
+{"id": "section_261", "text": "Magistrates empowered under Section 260 may try offences summarily and follow simplified procedure."}
+{"id": "section_262", "text": "In summary trials, no sentence of imprisonment exceeding three months may be passed."}
+{"id": "section_263", "text": "Magistrate must record particulars of the case, the offence, and the judgment in a summary trial."}
+{"id": "section_264", "text": "In all summary trials, substance of evidence and finding must be recorded."}
+{"id": "section_265", "text": "In cases not tried summarily, the procedure of regular trial must be followed."}
+{"id": "section_265A", "text": "Procedure for cases before Sessions Court shall be as specified from Sections 265A to 265N."}
+{"id": "section_265B", "text": "At first appearance, accused shall be provided copies of police report, FIR, and witness statements."}
+{"id": "section_265C", "text": "Accused shall be given time to prepare defence and may engage counsel."}
+{"id": "section_265D", "text": "Court shall frame charge if there is sufficient ground to proceed; otherwise, it shall discharge the accused."}
+{"id": "section_265E", "text": "Charge shall be read and explained to the accused, who shall be asked to plead."}
+{"id": "section_265F", "text": "If accused pleads not guilty, trial shall commence and evidence of prosecution shall be recorded."}
+{"id": "section_265G", "text": "Accused may cross-examine witnesses and produce defence evidence."}
+{"id": "section_265H", "text": "Accused has right to be a witness and give evidence under oath."}
+{"id": "section_265I", "text": "After hearing arguments, the Court shall pronounce judgment of conviction or acquittal."}
+{"id": "section_265J", "text": "Judgment must be written, signed, and contain reasons."}
+{"id": "section_265K", "text": "Court may stop proceedings and acquit accused if there is no probability of conviction."}
+{"id": "section_265L", "text": "Accused may be convicted of an offence not charged if facts prove it."}
+{"id": "section_265M", "text": "Irregularities in proceedings do not vitiate trial unless they prejudice the accused."}
+{"id": "section_265N", "text": "Provisions of Chapter XXIV shall not affect special or local laws providing different procedures."}
+{"id": "section_266", "text": "Accused shall be present when evidence is being taken and during inquiry or trial."}
+{"id": "section_267", "text": "Court may require accused in custody to be brought before it by issuing a warrant."}
+{"id": "section_268", "text": "Jail authority must produce accused in custody as per Court’s order unless there are lawful grounds to object."}
+{"id": "section_269", "text": "Court may examine person confined in jail via commission or direct production if necessary."}
+{"id": "section_270", "text": "Trial of accused person shall be open to public but may be held in camera if deemed necessary."}
+{"id": "section_271", "text": "Interpreter shall be provided if witness or accused does not understand the language of the Court."}
+{"id": "section_272", "text": "Accused entitled to copy of judgment free of cost."}
+{"id": "section_273", "text": "Judgment must be pronounced in open Court and signed by the presiding officer."}
+{"id": "section_274", "text": "Judgment shall be dated and contain points for determination and decision with reasons."}
+{"id": "section_275", "text": "Copies of judgment to be given to parties and sent to relevant officers."}
+{"id": "section_276", "text": "Evidence must be recorded in the language of the Court and signed by the presiding officer."}
+{"id": "section_277", "text": "In cases tried by Sessions Court, evidence must be taken down verbatim and read over to the witness."}
+{"id": "section_278", "text": "In Magistrate’s Court, evidence may be recorded in summary form unless otherwise required."}
+{"id": "section_279", "text": "Every deposition must be signed by the witness and countersigned by the presiding officer."}
+{"id": "section_280", "text": "Evidence taken in English must be translated to local language if the accused or witness requires it."}
+{"id": "section_281", "text": "Accused may make a statement after evidence for prosecution has been recorded."}
+{"id": "section_282", "text": "Judgment of acquittal or conviction must be pronounced after statement of accused is recorded."}
+{"id": "section_283", "text": "Court may examine any person as a witness even if not listed by prosecution or defence."}
+{"id": "section_284", "text": "Court may summon material witness or examine person present in Court."}
+{"id": "section_285", "text": "Accused entitled to recall or re-examine witnesses at any stage of trial before conclusion."}
+{"id": "section_286", "text": "Court shall ensure that prosecution and defence are given fair opportunity to present their case."}
+{"id": "section_287", "text": "Court may adjourn proceedings from time to time for valid reasons and record them in writing."}
+{"id": "section_288", "text": "Proceedings shall not be stayed or dismissed due to absence of complainant unless it prejudices the accused."}
+{"id": "section_289", "text": "Trial shall be concluded as quickly as possible and without unreasonable delay."}
+{"id": "section_290", "text": "Evidence may be taken on commission when a witness cannot attend due to valid reasons."}
+{"id": "section_291", "text": "Deposition taken on commission may be read in evidence under certain conditions."}
+{"id": "section_292", "text": "Procedure for issuing commissions and examining witnesses outside the country or jurisdiction."}
+{"id": "section_293", "text": "Medical and scientific experts may submit written reports which can be admitted in evidence."}
+{"id": "section_294", "text": "Court may accept or reject expert reports and summon expert for examination."}
+{"id": "section_295", "text": "Confession by accused must be voluntary and made before a Magistrate in prescribed manner."}
+{"id": "section_296", "text": "Magistrate must record confession in full and verify it was made voluntarily."}
+{"id": "section_297", "text": "If confession is found to be coerced or unreliable, it shall not be used as evidence."}
+{"id": "section_298", "text": "Court must inquire into allegations of torture or coercion if made by accused regarding confession."}
+{"id": "section_299", "text": "Prosecution may use previous confession or deposition of witness if unavailable for valid reasons."}
+{"id": "section_300", "text": "Person once convicted or acquitted cannot be tried again for the same offence (double jeopardy)."}
+{"id": "section_301", "text": "Public Prosecutor may appear and plead without written authority. Private counsel may act under directions of Public Prosecutor."}
+{"id": "section_302", "text": "Any person may, with Court’s permission, conduct prosecution independently."}
+{"id": "section_303", "text": "Every accused person has the right to be defended by a pleader of their choice."}
+{"id": "section_304", "text": "If accused is not represented in a trial before Sessions Court, Court may assign defence counsel at State expense."}
+{"id": "section_305", "text": "Procedure where corporation is an accused: Corporation may appoint representative."}
+{"id": "section_306", "text": "Magistrate may tender pardon to accomplice to obtain evidence against others in specified offences."}
+{"id": "section_307", "text": "After commitment, Court to which case is committed may also tender pardon to accomplice."}
+{"id": "section_308", "text": "If person who has accepted pardon fails to comply, they may be tried for the offence and for giving false evidence."}
+{"id": "section_309", "text": "Trial shall be continuous and adjournments discouraged. Postponement must be for reasons recorded."}
+{"id": "section_310", "text": "Compounding of offences: Certain offences may be compounded by specified persons with or without Court’s permission."}
+{"id": "section_311", "text": "Court may summon any person as a witness or recall and re-examine any person if just."}
+{"id": "section_312", "text": "Accused may be examined at any stage without oath to explain evidence against him."}
+{"id": "section_313", "text": "Court may examine accused to explain circumstances in evidence against him."}
+{"id": "section_314", "text": "No appeal lies from conviction if accused has pleaded guilty and has been convicted on such plea."}
+{"id": "section_315", "text": "Provision for pardon applies also to persons not yet under trial."}
+{"id": "section_316", "text": "Prosecution for offences affecting administration of justice requires sanction of competent authority."}
+{"id": "section_317", "text": "Court may dispense with personal attendance of accused in certain cases."}
+{"id": "section_318", "text": "Court may proceed with trial in absence of accused in petty offences."}
+{"id": "section_319", "text": "Court may proceed against any person appearing to be guilty of offence during trial."}
+{"id": "section_320", "text": "Offences may be compounded by the persons mentioned, with or without permission of the Court."}
+{"id": "section_321", "text": "Public Prosecutor may withdraw from prosecution with Court’s consent before judgment."}
+{"id": "section_322", "text": "Procedure in cases which Magistrate cannot dispose of: to forward to competent Magistrate or Sessions Court."}
+{"id": "section_323", "text": "Commitment of case to Court of Session when evidence is beyond Magistrate’s jurisdiction."}
+{"id": "section_324", "text": "When Court may alter or add to any charge at any time before judgment."}
+{"id": "section_325", "text": "When Magistrate cannot pass sentence sufficiently severe, he may forward case to higher Magistrate."}
+{"id": "section_326", "text": "Successor Judge or Magistrate may continue trial from part-heard stage."}
+{"id": "section_327", "text": "Trial must generally be held in open court, but may be held in camera for rape and sexual offences."}
+{"id": "section_328", "text": "Procedure where accused is suspected to be of unsound mind and incapable of making defence."}
+{"id": "section_329", "text": "If unsoundness is confirmed, trial may be postponed and accused detained until he regains sanity."}
+{"id": "section_330", "text": "When person of unsound mind regains sanity, proceedings may be resumed from where they were left."}
+{"id": "section_331", "text": "If person is incapable of making defence due to mental incapacity, Court may postpone trial."}
+{"id": "section_332", "text": "If accused is found guilty but mentally unsound at the time of offence, he shall be detained in safe custody."}
+{"id": "section_333", "text": "Magistrate or Court may require medical examination of accused suspected of mental disorder."}
+{"id": "section_334", "text": "If accused is found to be of unsound mind and incapable of entering defence, trial shall be postponed."}
+{"id": "section_335", "text": "Person acquitted on grounds of insanity shall be kept in safe custody or released under conditions."}
+{"id": "section_336", "text": "Appeal from order under Section 335 may be made to High Court."}
+{"id": "section_337", "text": "Person released under Section 335 may be re-arrested if conditions are violated."}
+{"id": "section_338", "text": "Power to examine accused at any stage of inquiry or trial."}
+{"id": "section_339", "text": "Court must ensure all legal procedures and safeguards are followed during trial."}
+{"id": "section_340", "text": "Accused is entitled to be defended by pleader or advocate at all stages."}
+{"id": "section_341", "text": "Any person may be examined as a witness even if not named by prosecution or defence."}
+{"id": "section_342", "text": "Power to examine accused generally to explain evidence given against him."}
+{"id": "section_343", "text": "Trial to proceed day-to-day unless adjournment is essential for justice."}
+{"id": "section_344", "text": "Court may postpone or adjourn proceedings but must record reasons in writing."}
+{"id": "section_345", "text": "Certain offences may be compounded with or without permission of the Court by persons named."}
+{"id": "section_346", "text": "Magistrate may stop proceedings and refer case to competent Court if unable to dispose of it."}
+{"id": "section_347", "text": "Magistrate may commit case to Court of Session if it is within jurisdiction of that Court."}
+{"id": "section_348", "text": "Magistrate shall forward accused and proceedings to appropriate Court when unable to pass adequate sentence."}
+{"id": "section_349", "text": "Successor Magistrate may act on evidence recorded by predecessor."}
+{"id": "section_350", "text": "Trial may proceed in absence of accused in summons cases, but judgment shall be pronounced in their presence or communicated."}
+{"id": "section_351", "text": "When person in custody is brought before Magistrate and is charged with another offence, he may be detained or tried immediately."}
+{"id": "section_352", "text": "Court may order removal of persons disrupting proceedings, and use necessary force if required."}
+{"id": "section_353", "text": "Public must have access to court trials, subject to reasonable restrictions for maintaining order."}
+{"id": "section_354", "text": "Judgment must be written in the language of the court, dated, signed, and include reasons for decision."}
+{"id": "section_355", "text": "Judgment in summons cases may be recorded briefly in prescribed form."}
+{"id": "section_356", "text": "Copies of judgment or order must be furnished to accused or other party upon application."}
+{"id": "section_357", "text": "Court may order compensation to victim when imposing sentence of fine."}
+{"id": "section_358", "text": "If person is arrested without sufficient reason, Magistrate may order compensation to be paid by complainant."}
+{"id": "section_359", "text": "Court may order payment of costs by accused to complainant upon conviction."}
+{"id": "section_360", "text": "Court may release certain offenders on probation instead of sentencing to imprisonment."}
+{"id": "section_361", "text": "Reasons must be recorded when court does not apply probation or other special provisions."}
+{"id": "section_362", "text": "Judgment once signed cannot be altered or reviewed except to correct clerical or arithmetical errors."}
+{"id": "section_363", "text": "Copy of judgment must be provided to accused if sentenced to death, imprisonment, or fine."}
+{"id": "section_364", "text": "Record of evidence in capital cases must be carefully maintained, signed by judge, and read to accused."}
+{"id": "section_365", "text": "Court may rectify clerical or accidental errors in judgment or orders."}
+{"id": "section_366", "text": "When death sentence is passed by Sessions Court, confirmation by High Court is required before execution."}
+{"id": "section_367", "text": "High Court may confirm, annul, or alter sentence or conviction during confirmation proceedings."}
+{"id": "section_368", "text": "High Court has same powers as trial Court and may order new trial, acquittal, or re-sentence."}
+{"id": "section_369", "text": "Confirmation or order by High Court must be signed and bear date of delivery."}
+{"id": "section_370", "text": "Judgment in confirmation case must be delivered in open Court."}
+{"id": "section_371", "text": "High Court must send order confirming sentence to lower Court for action."}
+{"id": "section_372", "text": "No appeal shall lie from a judgment unless provided by law, except in cases involving certain rights."}
+{"id": "section_373", "text": "Accused may appeal against conviction to the Court of Session or High Court as per law."}
+{"id": "section_374", "text": "Person convicted by Sessions Judge may appeal to High Court."}
+{"id": "section_375", "text": "No appeal in cases where accused pleads guilty and is convicted on such plea."}
+{"id": "section_376", "text": "No appeal in petty cases where imprisonment does not exceed six months or fine Rs. 200 unless special leave granted."}
+{"id": "section_377", "text": "Provincial Government may direct Public Prosecutor to appeal against inadequate sentence."}
+{"id": "section_378", "text": "Government may direct appeal against acquittal, subject to leave of High Court."}
+{"id": "section_379", "text": "Accused may appeal in certain cases involving conviction with sentence of fine exceeding Rs. 50."}
+{"id": "section_380", "text": "Appeals may be consolidated and disposed of by one judgment."}
+{"id": "section_381", "text": "Appeal must be made in prescribed form, signed, and presented within time limit."}
+{"id": "section_382", "text": "Appeal may be presented by the appellant or pleader to proper officer or jail authority."}
+{"id": "section_383", "text": "If appellant is in jail, appeal may be presented to jail officer who will forward it to Appellate Court."}
+{"id": "section_384", "text": "Appellate Court may dismiss appeal summarily if it finds no sufficient ground after examining the petition."}
+{"id": "section_385", "text": "If appeal is not dismissed, Court shall fix date for hearing and inform parties."}
+{"id": "section_386", "text": "Appellate Court may reverse, modify, or order retrial after hearing appeal."}
+{"id": "section_387", "text": "Judgment in appeal must be pronounced in open Court and signed by presiding judge."}
+{"id": "section_388", "text": "High Court may call for records of inferior Courts for examining legality or propriety of judgments."}
+{"id": "section_389", "text": "Execution of sentence may be suspended pending appeal, and accused may be released on bail."}
+{"id": "section_390", "text": "When appeal is filed by the Government, High Court may issue warrant and commit accused to custody."}
+{"id": "section_391", "text": "Additional evidence may be taken in appeal if necessary for justice."}
+{"id": "section_392", "text": "Appellate Court may refer case for decision to a larger Bench in case of differing opinions."}
+{"id": "section_393", "text": "Judgment of appellate Court must be final and executed as if passed by original trial Court."}
+{"id": "section_394", "text": "Appeal abates on the death of appellant unless continued by legal representative in specific cases."}
+{"id": "section_395", "text": "If constitutional question arises, lower Court may refer the case to High Court."}
+{"id": "section_396", "text": "When multiple persons are convicted in one trial, High Court may hear their appeals jointly."}
+{"id": "section_397", "text": "Sessions Judge or High Court may call for records to examine legality or propriety of any finding or sentence."}
+{"id": "section_398", "text": "Sessions Judge may direct further inquiry or commit accused for trial after examining records."}
+{"id": "section_399", "text": "Revision by Sessions Judge may be exercised only where no appeal lies."}
+{"id": "section_400", "text": "High Court may exercise powers of revision even if Sessions Judge has acted under Section 399."}
+{"id": "section_401", "text": "High Court or Provincial Government may suspend or remit sentences of any person convicted of an offence."}
+{"id": "section_402", "text": "Power to commute sentences without the consent of the offender, such as replacing death with life imprisonment."}
+{"id": "section_403", "text": "No person once tried and convicted or acquitted can be tried again for the same offence (double jeopardy)."}
+{"id": "section_404", "text": "No appeal lies from any judgment or order of a Criminal Court except as provided by the Code or by other law."}
+{"id": "section_405", "text": "High Court may revise orders of acquittal in specific circumstances."}
+{"id": "section_406", "text": "Supreme Court may transfer cases and appeals from one High Court to another for justice."}
+{"id": "section_407", "text": "High Court may transfer cases or appeals from one subordinate court to another."}
+{"id": "section_408", "text": "Sessions Judge may transfer cases within his Sessions division for justice."}
+{"id": "section_409", "text": "Sessions Judge may withdraw or recall cases from Magistrates and try them himself."}
+{"id": "section_410", "text": "Any person convicted on a trial by a Magistrate may appeal to the Sessions Judge, unless appeal is barred."}
+{"id": "section_411", "text": "No appeal lies from a conviction in petty cases unless substantial injustice is shown."}
+{"id": "section_412", "text": "No appeal from conviction in summary trials where sentence is not more than one month or Rs. 200 fine."}
+{"id": "section_413", "text": "No appeal from order of acquittal in petty cases."}
+{"id": "section_414", "text": "No appeal shall lie unless specifically provided by the Code or other law."}
+{"id": "section_415", "text": "Appeal abates on death of accused unless continued by legal representative."}
+{"id": "section_416", "text": "Woman sentenced to death may have execution postponed if found to be pregnant."}
+{"id": "section_417", "text": "Provincial Government may appeal against an order of acquittal to High Court."}
+{"id": "section_418", "text": "Court may release convicted person on bail pending appeal."}
+{"id": "section_419", "text": "If appellate Court upholds conviction and sentence, accused may be taken into custody."}
+{"id": "section_420", "text": "If sentence is changed on appeal, the altered sentence takes effect as if originally passed."}
+{"id": "section_421", "text": "If appeal is dismissed summarily, reasons must be recorded in writing."}
+{"id": "section_422", "text": "Notice of appeal must be given to Public Prosecutor when Government is party to the case."}
+{"id": "section_423", "text": "Powers of appellate Court include confirming, reversing, or modifying sentence or ordering retrial."}
+{"id": "section_424", "text": "When conviction is set aside, Court may order retrial if deemed necessary."}
+{"id": "section_425", "text": "When case is revised or retried, evidence already recorded may be used."}
+{"id": "section_426", "text": "Pending appeal, sentence may be suspended and appellant released on bail."}
+{"id": "section_427", "text": "When person already undergoing sentence is convicted again, sentences may run consecutively or concurrently."}
+{"id": "section_428", "text": "Period of detention undergone by accused before conviction shall be set off against term of imprisonment."}
+{"id": "section_429", "text": "If doubt arises on sentence to be executed, Government shall decide in which order the sentences shall run."}
+{"id": "section_430", "text": "Judgment and orders passed in appeal or revision are final unless otherwise provided by law."}
+{"id": "section_431", "text": "Every appeal must be heard by at least two judges of the High Court."}
+{"id": "section_432", "text": "Provincial Government may suspend or remit sentences in consultation with the Court."}
+{"id": "section_433", "text": "Power to commute sentence, including death to life imprisonment or rigorous imprisonment to simple."}
+{"id": "section_434", "text": "Concurrent power of Central and Provincial Governments for remission and commutation of sentences."}
+{"id": "section_435", "text": "District Magistrate may call for records of inferior Courts to examine propriety or legality of orders."}
+{"id": "section_436", "text": "Bail must be granted in bailable offences unless there is sufficient reason to believe accused will abscond."}
+{"id": "section_437", "text": "In non-bailable offences, bail may be granted by Magistrate in certain conditions."}
+{"id": "section_438", "text": "High Court or Sessions Court may grant anticipatory bail to a person apprehending arrest."}
+{"id": "section_439", "text": "High Court and Sessions Court have special powers to grant or cancel bail."}
+{"id": "section_440", "text": "Amount of bail must be reasonable and not excessive."}
+{"id": "section_441", "text": "Bond to be executed by person released on bail, with or without sureties."}
+{"id": "section_442", "text": "Sureties may be discharged from liability by applying to Court."}
+{"id": "section_443", "text": "Court may order arrest of person absconding to evade execution of bond or bail."}
+{"id": "section_444", "text": "When bond is forfeited, Court may impose penalty or enforce bond against sureties."}
+{"id": "section_445", "text": "Court may accept deposit of money in lieu of surety."}
+{"id": "section_446", "text": "Procedure on forfeiture of bond: Notice to be issued and opportunity to explain."}
+{"id": "section_447", "text": "When surety dies or becomes insolvent, accused may be asked to furnish fresh surety."}
+{"id": "section_448", "text": "Bond executed by a minor must be through surety."}
+{"id": "section_449", "text": "Appeal may be filed against orders under Section 446 regarding bond forfeiture."}
+{"id": "section_450", "text": "District Magistrate or Chief Presidency Magistrate may direct any Magistrate subordinate to him to try or dispose of any case."}
+{"id": "section_451", "text": "Court may order custody and disposal of property produced during inquiry or trial."}
+{"id": "section_452", "text": "After trial, Court may make order for disposal of property by destruction, confiscation, or delivery."}
+{"id": "section_453", "text": "Payment to innocent purchaser of money found on accused can be ordered."}
+{"id": "section_454", "text": "Appeal may be filed against disposal order under Section 452 or 453."}
+{"id": "section_455", "text": "Court may order destruction of obscene objects after conviction."}
+{"id": "section_456", "text": "Court may order restoration of possession of immovable property to dispossessed person."}
+{"id": "section_457", "text": "When property is seized by police and not produced in court, Magistrate may make orders for disposal."}
+{"id": "section_458", "text": "If no claimant appears for property seized, Magistrate may order disposal after prescribed period."}
+{"id": "section_459", "text": "If property is perishable or of small value, Magistrate may sell it at once."}
+{"id": "section_460", "text": "Irregularities committed by Magistrates in good faith in certain proceedings do not vitiate them."}
+{"id": "section_461", "text": "Certain acts done by Magistrates without authority render proceedings void."}
+{"id": "section_462", "text": "No finding or sentence shall be invalid by reason of trial being held in wrong jurisdiction."}
+{"id": "section_463", "text": "If confession recorded improperly, Court may take evidence to confirm voluntariness."}
+{"id": "section_464", "text": "Omission or error in framing charge not fatal unless it has misled the accused."}
+{"id": "section_465", "text": "Finding or sentence not to be reversed unless error has caused failure of justice."}
+{"id": "section_466", "text": "Court may make order for payment of expenses to complainants and witnesses."}
+{"id": "section_467", "text": "Period of limitation is excluded during time when court was closed."}
+{"id": "section_468", "text": "No Court shall take cognizance of offence after expiry of limitation period."}
+{"id": "section_469", "text": "Period of limitation begins from date of offence, knowledge of offence, or identity of offender."}
+{"id": "section_470", "text": "Time during which prosecution is stayed by injunction is excluded from limitation."}
+{"id": "section_471", "text": "In computing limitation, time during which accused is absconding is excluded."}
+{"id": "section_472", "text": "In case of continuing offence, fresh limitation period begins at every moment of its continuance."}
+{"id": "section_473", "text": "Court may take cognizance even after limitation if delay is properly explained."}
+{"id": "section_474", "text": "High Court may try offences punishable under other laws as per CrPC procedure."}
+{"id": "section_475", "text": "Court shall not proceed with trial of person subject to military law without Government sanction."}
+{"id": "section_476", "text": "Court may make complaint against person giving false evidence or fabricating it."}
+{"id": "section_477", "text": "Offences under Section 476 may be inquired into by the same or another court."}
+{"id": "section_478", "text": "High Court may make rules for distribution of business among Magistrates."}
+{"id": "section_479", "text": "No Judge or Magistrate shall try or commit for trial any case in which he is personally interested."}
+{"id": "section_480", "text": "Magistrate may record facts and forward case to superior Magistrate when he is personally interested."}
+{"id": "section_481", "text": "Public servants concerned with court business are bound to carry out lawful orders."}
+{"id": "section_482", "text": "High Court has inherent powers to make such orders as necessary to prevent abuse of process of court or to secure justice."}
+{"id": "section_483", "text": "High Court to exercise supervision over subordinate Magistrates to ensure proper functioning."}
+{"id": "section_484", "text": "Repeal of old enactments and saving of ongoing trials and investigations under them."}
+{"id": "section_485", "text": "CrPC applies to all proceedings before any criminal court established under it."}
+{"id": "section_486", "text": "In case of conflict, special law provisions prevail over CrPC unless stated otherwise."}
+{"id": "section_487", "text": "State Government may make rules to carry out purposes of CrPC, subject to publication in Official Gazette."}
+{"id": "section_488", "text": "Magistrate may order monthly allowance for maintenance of wife, children, or parents unable to maintain themselves."}
+{"id": "section_489", "text": "Magistrate may alter allowance on proof of change in circumstances."}
+{"id": "section_490", "text": "Order for maintenance may be enforced like a fine."}
+{"id": "section_491", "text": "High Court may issue directions for custody of persons wrongfully detained (habeas corpus)."}
+{"id": "section_492", "text": "Public Prosecutors are appointed by Provincial Government in consultation with High Court."}
+{"id": "section_493", "text": "Public Prosecutor shall appear and conduct prosecution in Court."}
+{"id": "section_494", "text": "Public Prosecutor may withdraw prosecution with Court’s consent before judgment is pronounced."}
+{"id": "section_495", "text": "Court may permit any person to conduct prosecution under Public Prosecutor’s supervision."}
+{"id": "section_496", "text": "In bailable offences, accused is entitled to be released on bail."}
+{"id": "section_497", "text": "In non-bailable offences, bail may be granted under conditions or denied in serious cases."}
+{"id": "section_498", "text": "High Court or Sessions Court may grant bail in anticipation of arrest or otherwise."}
+{"id": "section_499", "text": "Accused released on bail must furnish bond and may be re-arrested for violating conditions."}
+{"id": "section_500", "text": "Bail bond may be forfeited if conditions violated and recovery made from surety or accused."}
+{"id": "section_501", "text": "When a person for whose appearance a summons or warrant has been issued is about to leave jurisdiction, the officer in charge may require him to execute a bond for appearance."}
+{"id": "section_502", "text": "If bond is not furnished under Section 501, such person may be arrested and presented before the Magistrate."}
+{"id": "section_503", "text": "Magistrate may require witnesses to execute bond to appear and testify."}
+{"id": "section_504", "text": "Magistrate may commit witness to custody for refusal to execute bond."}
+{"id": "section_505", "text": "Penalty for false statement, rumor, or report that causes public mischief or fear."}
+{"id": "section_506", "text": "Punishment for criminal intimidation, including threats to cause injury or death."}
+{"id": "section_507", "text": "Criminal intimidation by anonymous communication or concealing identity is punishable."}
+{"id": "section_508", "text": "Act caused by inducement to believe that it is sanctioned by public authority."}
+{"id": "section_509", "text": "Word, gesture, or act intended to insult the modesty of a woman is punishable."}
+{"id": "section_510", "text": "Misconduct in public by a drunken person is punishable."}
+{"id": "section_511", "text": "Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonments."}
+{"id": "section_512", "text": "Trial may proceed in absence of accused who is absconding, if proclaimed offender."}
+{"id": "section_513", "text": "Procedure when bond has been forfeited and person bound by it is in custody."}
+{"id": "section_514", "text": "Court may enforce bond forfeiture and recover penalty by attachment or sale of property."}
+{"id": "section_515", "text": "Bail and bond procedures for offences under special laws."}
+{"id": "section_516", "text": "High Court may make rules consistent with CrPC to regulate procedure and practice."}
+{"id": "section_517", "text": "Court may make orders regarding property in case of conviction."}
+{"id": "section_518", "text": "Court’s order for disposal of property is appealable and enforceable."}
+{"id": "section_519", "text": "When accused is acquitted and property remains unclaimed, Court may pass disposal order."}
+{"id": "section_520", "text": "High Court may modify or annul orders under Section 517, 518 or 519."}
+{"id": "section_521", "text": "Weapons used in offences to be confiscated or destroyed."}
+{"id": "section_522", "text": "Court may restore possession of immovable property wrongfully dispossessed."}
+{"id": "section_523", "text": "Magistrate may make orders regarding property found on arrested person."}
+{"id": "section_524", "text": "Procedure where property is perishable or no claimant appears after publication of notice."}
+{"id": "section_525", "text": "Sessions Judge may call for proceedings and revise orders regarding property."}
+{"id": "section_526", "text": "High Court may transfer case or appeal to ensure fair trial or for convenience of parties."}
+{"id": "section_527", "text": "Court having jurisdiction may proceed with case if parties agree, with permission of High Court."}
+{"id": "section_528", "text": "District Magistrate may withdraw or transfer cases between Magistrates."}
+{"id": "section_529", "text": "Omission or error in following procedure shall not vitiate proceedings unless failure of justice."}
+{"id": "section_530", "text": "Trial by Magistrate not empowered to try case is void."}
+{"id": "section_531", "text": "Finding or sentence not to be reversed due to improper place of inquiry or trial unless prejudice shown."}
+{"id": "section_532", "text": "Court may proceed with trial notwithstanding omission to frame charge if no prejudice caused."}
+{"id": "section_533", "text": "Improper admission or rejection of evidence does not invalidate trial unless miscarriage of justice."}
+{"id": "section_534", "text": "Offences committed by armed forces personnel dealt with as per military laws unless otherwise provided."}
+{"id": "section_535", "text": "Special rules apply when offences committed by persons in service of Government."}
+{"id": "section_536", "text": "Accused person may be tried for lesser offence when facts support it."}
+{"id": "section_537", "text": "Court may amend errors or omissions in judgments if no failure of justice."}
+{"id": "section_538", "text": "Accused to be heard before sentence is passed or modified."}
+{"id": "section_539", "text": "Judge or Magistrate may record memorandum instead of full evidence in certain cases."}
+{"id": "section_540", "text": "Court may summon any person as a witness or recall and re-examine any person."}
+{"id": "section_541", "text": "Government may direct who shall bear expenses of prosecution."}
+{"id": "section_542", "text": "High Court may frame forms for proceedings and judgments to ensure uniformity."}
+{"id": "section_543", "text": "Accused entitled to copy of record and documents used in inquiry or trial."}
+{"id": "section_544", "text": "Expenses for complainants and witnesses to be borne by State in certain cases."}
+{"id": "section_545", "text": "Court may order payment of compensation to persons affected by the offence."}
+{"id": "section_546", "text": "Court may direct payment of fines to injured persons."}
+{"id": "section_547", "text": "Any fine or compensation not paid is recoverable as arrears of land revenue."}
+{"id": "section_548", "text": "Convicted persons entitled to copies of judgments and orders free of cost in certain cases."}
+{"id": "section_549", "text": "Offenders subject to military law may be handed over to commanding officers."}
+{"id": "section_550", "text": "Police officer may seize property suspected to be stolen or connected with offence."}
+{"id": "section_551", "text": "Police to report arrests and investigations to Magistrate."}
+{"id": "section_552", "text": "Magistrate may direct restoration of property taken from arrested person."}
+{"id": "section_553", "text": "High Court may supervise functions of criminal courts and issue directions."}
+{"id": "section_554", "text": "No suit or prosecution shall lie against any person for acts done in good faith under this Code."}
+{"id": "section_555", "text": "Officers of Government protected from prosecution for acts done in good faith in execution of duties."}
+{"id": "section_556", "text": "Judge or Magistrate not to try or commit case in which he has personal interest or bias."}
+{"id": "section_557", "text": "Court may proceed with case despite technical irregularities if justice is not defeated."}
+{"id": "section_558", "text": "Provision of this Code not to affect powers of the Supreme Court or High Court under Constitution."}
+{"id": "section_559", "text": "Officers and other persons to be bound by orders made under this Code."}
+{"id": "section_560", "text": "Orders made by court to be enforced as per law."}
+{"id": "section_561", "text": "High Court has inherent power to make orders necessary to prevent abuse of court process or secure justice."}

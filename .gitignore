@@ -2,13 +2,29 @@
 # Raw court judgment PDFs (large binary files, not for version control)
 **/*.pdf
 
-# Processed pipeline output caches
+# Processed pipeline output caches (globally ignored)
 **/*.jsonl
 
-# ─── Data Warehouse Directories ────────────────────────────────────────────────
-data_warehouse/raw/
-data_warehouse/archive/
-data_warehouse/quarantine/
+# ─── Data Warehouse Directories & Exclusions ───────────────────────────────────
+# Ignore all files and folders in data_warehouse by default
+data_warehouse/**/*
+
+# Allow Git to traverse down to the specific directories we want to track
+!data_warehouse/
+!data_warehouse/bronze/
+!data_warehouse/bronze/raw/
+!data_warehouse/bronze/raw/phc/
+!data_warehouse/bronze/archive/
+!data_warehouse/bronze/archive/legal_codes/
+
+# Un-ignore the exactly 5 files we want to keep in the repository
+!data_warehouse/bronze/raw/phc/metadata.csv
+!data_warehouse/bronze/archive/legal_codes/CPC.jsonl
+!data_warehouse/bronze/archive/legal_codes/CrPC.jsonl
+!data_warehouse/bronze/archive/legal_codes/Qanoon-e-Shahadat.jsonl
+!data_warehouse/bronze/archive/legal_codes/PPC.jsonl
+
+# Ignore generated outputs/caches outside the warehouse
 processed/
 
 # ─── Environment & Secrets ─────────────────────────────────────────────────────
