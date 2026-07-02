@@ -1,0 +1,69 @@
+# ─── Legal Dataset Files ───────────────────────────────────────────────────────
+# Raw court judgment PDFs (large binary files, not for version control)
+**/*.pdf
+
+# Processed pipeline output caches
+**/*.jsonl
+
+# ─── Data Warehouse Directories ────────────────────────────────────────────────
+data_warehouse/raw/
+data_warehouse/archive/
+data_warehouse/quarantine/
+processed/
+
+# ─── Environment & Secrets ─────────────────────────────────────────────────────
+.env
+.env.*
+!.env.example
+
+# ─── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# ─── Testing & Coverage ────────────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+*.cover
+coverage.xml
+
+# ─── Jupyter ───────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ─── Docker ────────────────────────────────────────────────────────────────────
+# (docker-compose.yml and Dockerfile ARE committed)
+
+# ─── Airflow ───────────────────────────────────────────────────────────────────
+logs/
+airflow.db
+airflow.cfg
+
+# ─── macOS ─────────────────────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# ─── IDEs & Editors ────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
